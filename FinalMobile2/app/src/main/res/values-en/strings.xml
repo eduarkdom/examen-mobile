@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalMobile</string>
+    <string name="form_activity_label">Activity Form</string>
+    <string name="agregar_lugar">Add place</string>
+    <string name="guardar">Save</string>
+    <string name="costoxnoche">Cost per Night</string>
+    <string name="costotraslado">"Travel Expenses</string>
+</resources>

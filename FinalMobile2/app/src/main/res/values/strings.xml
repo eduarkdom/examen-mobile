@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalMobile</string>
+    <string name="form_activity_label">Actividad de Formulario</string>
+    <string name="agregar_lugar">Agregar Lugar</string>
+    <string name="guardar">Agregar Lugar</string>
+    <string name="costoxnoche">Costo x Noche</string>
+    <string name="costotraslado">Costo Traslado</string>
+</resources>
